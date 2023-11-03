@@ -4,7 +4,7 @@
 РАЗРАБОТКА САЙТОВ / IT АУТСОРСИНГ </h3>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Apostol-007&theme=github-dark-dimmed&hide_border=true&locale=ru&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Apostol-007&theme=github-dark-dimmed&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 
 <!---Для компактной версии-->
